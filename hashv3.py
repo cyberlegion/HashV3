@@ -42,6 +42,6 @@ while(1):
 	   file.write(hash)
 	   file.write('\n')
 file.close()
-print("All Hashes Saved in "saved_file.txt" FILE , So check that file ")
+print("All Hashes Saved in -> saved_file.txt <- FILE , So check that file ")
 #PROGRAM ENDED 
 #Done By Program from Earth , Solar System , Star , MilkyWay Galaxy , Universe , Multiverse . . . . .
